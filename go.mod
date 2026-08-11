@@ -1,4 +1,4 @@
-module github.com/TaraHoleInIt/addition
+module github.com/TaraHoleInIt/addition/v2
 
 go 1.26.5
 
